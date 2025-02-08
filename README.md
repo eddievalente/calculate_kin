@@ -1,4 +1,4 @@
-#Kin Calculation
+# Kin Calculation
 
 In the context of Mayan astrology, the "kin" is the number corresponding to a day in the Tzolkin calendar, which consists of 260 days (20 signs × 13 numbers). To calculate the kin of a birth date, we follow the steps to convert the date to the Mayan calendar format and find the position in the Tzolkin cycle.
 
